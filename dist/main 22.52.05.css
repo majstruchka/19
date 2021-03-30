@@ -4,4 +4,42 @@ body {
   height: 100%;
 }
 
+.header {
+  background-color: #127ebd;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  background-color: #3bb6fd;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  background-color: #2480b6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aside {
+  background-color: #61c5e4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  background-color: #9cd4f5;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /*# sourceMappingURL=main%2022.52.05.css.map */
