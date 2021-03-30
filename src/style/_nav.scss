@@ -1,7 +1,5 @@
-.nav{
-    background-color:rgb(59, 182, 253);
-    height: 70px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+nav{
+    grid-area: nav;
+    background-color: rgb(28, 25, 185);
 }
+  

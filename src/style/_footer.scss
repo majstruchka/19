@@ -1,7 +1,5 @@
-.footer{
-    background-color:rgb(156, 212, 245);
-    height: 70px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+footer{
+    grid-area: footer;
+    background-color: rgb(129, 205, 228);
 }
+  
